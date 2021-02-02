@@ -1,0 +1,83 @@
+station_id;date_from;date_to;altitude;latitude;longitude;name;state
+216;2004-10-01;2021-02-02;298;51.1143;7.8807;Attendorn-Neulisternohl;Nordrhein-Westfalen
+389;2009-11-01;2021-02-02;436;51.0148;8.4318;Berleburg, Bad-Arfeld;Nordrhein-Westfalen
+554;1995-09-01;2021-02-02;23;51.8293;6.5365;Bocholt-Liedern (Wasserwerk);Nordrhein-Westfalen
+603;1999-03-03;2021-02-02;147;50.7293;7.204;Königswinter-Heiderhof;Nordrhein-Westfalen
+613;2004-11-01;2021-02-02;206;51.5677;9.2324;Borgentreich;Nordrhein-Westfalen
+617;2004-06-01;2021-02-02;47;51.873;6.8863;Borken in Westfalen;Nordrhein-Westfalen
+644;2005-01-01;2021-02-02;150;51.7049;9.1738;Brakel;Nordrhein-Westfalen
+796;2004-11-01;2021-02-02;412;50.7556;8.1257;Burbach-Würgendorf;Nordrhein-Westfalen
+871;2005-08-01;2021-02-02;87;51.9618;7.1585;Coesfeld;Nordrhein-Westfalen
+902;2006-10-01;2021-02-02;573;50.4115;6.5615;Dahlem-Schmidtheim;Nordrhein-Westfalen
+934;2004-10-01;2021-02-02;88;51.7835;8.5658;Delbrück;Nordrhein-Westfalen
+989;2005-02-01;2021-02-02;46;51.5765;6.7849;Dinslaken;Nordrhein-Westfalen
+1024;2006-08-01;2021-02-02;37;51.1157;6.851;Dormagen-Zons;Nordrhein-Westfalen
+1046;2004-10-01;2021-02-02;72;51.7585;7.7528;Drensteinfurt;Nordrhein-Westfalen
+1078;1995-09-01;2021-02-02;37;51.296;6.7686;Düsseldorf;Nordrhein-Westfalen
+1241;2006-12-01;2021-02-02;128;52.15;8.5226;Enger;Nordrhein-Westfalen
+1246;2015-08-01;2021-02-02;104;51.8418;8.0607;Ennigerloh-Ostenfelde;Nordrhein-Westfalen
+1300;2004-06-01;2021-02-02;351;51.254;8.1565;Eslohe;Nordrhein-Westfalen
+1303;1995-09-01;2021-02-02;150;51.4041;6.9677;Essen-Bredeney;Nordrhein-Westfalen
+1327;2004-08-01;2021-02-02;147;50.7119;6.7905;Weilerswist-Lommersum;Nordrhein-Westfalen
+1590;2003-07-01;2021-02-02;37;51.4942;6.2463;Geldern-Walbeck;Nordrhein-Westfalen
+1595;2012-10-01;2021-02-02;91;51.5762;7.0652;Gelsenkirchen-Buer;Nordrhein-Westfalen
+1766;1995-09-01;2021-02-02;48;52.1344;7.6969;Münster/Osnabrück;Nordrhein-Westfalen
+2027;2006-06-01;2021-02-02;63;51.9753;8.2094;Harsewinkel;Nordrhein-Westfalen
+2110;2003-01-05;2021-02-02;57;51.0411;6.1042;Heinsberg-Schleiden;Nordrhein-Westfalen
+2254;2005-06-01;2021-02-02;46;52.2396;7.6449;Hörstel-Riesenbeck;Nordrhein-Westfalen
+2473;2004-12-01;2021-02-02;76;50.9316;6.3431;Jülich (Kläranlage);Nordrhein-Westfalen
+2483;1995-10-12;2021-02-02;839;51.1803;8.4891;Kahler Asten;Nordrhein-Westfalen
+2497;2004-08-01;2021-02-02;505;50.5014;6.5264;Kall-Sistig;Nordrhein-Westfalen
+2629;2004-07-01;2021-02-02;46;51.7612;6.0954;Kleve;Nordrhein-Westfalen
+2667;1995-09-01;2021-02-02;92;50.8646;7.1575;Köln-Bonn;Nordrhein-Westfalen
+2810;2006-12-01;2021-02-02;150;51.9446;8.7749;Lage, Kreis Lippe-Hörste;Nordrhein-Westfalen
+2947;2006-10-01;2021-02-02;286;51.1333;8.0348;Lennestadt-Theten;Nordrhein-Westfalen
+2968;2008-12-01;2021-02-02;43;50.9894;6.9777;Köln-Stammheim;Nordrhein-Westfalen
+2999;2004-07-01;2021-02-02;55;52.1211;7.8699;Lienen-Kattenvenne;Nordrhein-Westfalen
+3028;1995-09-01;2021-02-02;157;51.7854;8.8388;Lippspringe, Bad;Nordrhein-Westfalen
+3031;2004-07-01;2021-02-02;92;51.6336;8.3945;Lippstadt-Bökenförde;Nordrhein-Westfalen
+3081;2007-12-01;2021-02-02;65;52.3452;8.6477;Espelkamp-Isenstedt;Nordrhein-Westfalen
+3098;1995-09-01;2021-02-02;387;51.2452;7.6425;Lüdenscheid;Nordrhein-Westfalen
+3215;2007-06-01;2021-02-02;375;51.1683;8.7125;Medebach-Berge;Nordrhein-Westfalen
+3321;2005-07-01;2021-02-02;77;51.1313;6.3609;Mönchengladbach-Hilderath;Nordrhein-Westfalen
+3339;2006-09-01;2021-02-02;541;50.5202;6.2084;Monschau-Kalterherberg;Nordrhein-Westfalen
+3499;2006-07-01;2021-02-02;292;51.2915;7.853;Neuenrade-Blintrop;Nordrhein-Westfalen
+3540;2004-11-01;2021-02-02;195;50.8446;7.372;Neunkirchen-Seelscheid-Krawinkel;Nordrhein-Westfalen
+3591;2004-06-01;2021-02-02;350;50.6743;6.424;Nideggen-Schmidt;Nordrhein-Westfalen
+3795;2004-12-01;2021-02-02;49;51.7066;7.3564;Olfen;Nordrhein-Westfalen
+3913;2004-07-01;2021-02-02;43;52.3817;9.0176;Petershagen;Nordrhein-Westfalen
+4063;2003-07-01;2021-02-02;41;52.4461;8.5906;Rahden-Kleinendorf;Nordrhein-Westfalen
+4127;2005-01-01;2021-02-02;347;50.9906;7.6958;Reichshof-Eckenhagen;Nordrhein-Westfalen
+4150;2005-12-01;2021-02-02;59;51.8118;7.0907;Reken;Nordrhein-Westfalen
+4313;2004-08-01;2021-02-02;370;51.4966;8.4342;Rüthen;Nordrhein-Westfalen
+4368;2004-10-01;2021-02-02;93;51.7098;8.5796;Salzkotten;Nordrhein-Westfalen
+4371;1995-09-01;2021-02-02;135;52.1042;8.7521;Salzuflen, Bad;Nordrhein-Westfalen
+4400;2004-08-01;2021-02-02;171;51.5439;8.1808;Sassendorf, Bad-Beusingsen;Nordrhein-Westfalen
+4488;2006-08-01;2021-02-02;443;51.2127;8.2672;Schmallenberg-Sellinghausen;Nordrhein-Westfalen
+4741;2004-12-01;2021-02-02;152;51.14;7.093;Solingen-Hohenscheid;Nordrhein-Westfalen
+4849;2005-06-01;2021-02-02;64;52.1173;7.3411;Steinfurt-Burgsteinfurt;Nordrhein-Westfalen
+5064;2004-12-01;2021-02-02;37;51.2897;6.4437;Tönisvorst;Nordrhein-Westfalen
+5347;1995-09-01;2021-02-02;236;51.5039;9.1118;Warburg;Nordrhein-Westfalen
+5360;2007-07-01;2021-02-02;331;51.4319;8.2665;Warstein-Hirschberg;Nordrhein-Westfalen
+5480;2003-09-10;2021-02-02;85;51.5763;7.8879;Werl;Nordrhein-Westfalen
+5513;2005-09-01;2021-02-02;92;52.2902;7.8687;Westerkappeln;Nordrhein-Westfalen
+5619;2004-12-01;2021-02-02;360;51.1637;7.4234;Wipperfürth-Gardeweg;Nordrhein-Westfalen
+5699;2004-11-01;2021-02-02;312;51.5427;8.7784;Wünnenberg-Eilern;Nordrhein-Westfalen
+5717;2006-09-01;2021-02-02;134;51.2256;7.1052;Wuppertal-Buchenhofen;Nordrhein-Westfalen
+5733;2005-05-01;2021-02-02;20;51.697;6.3974;Xanten;Nordrhein-Westfalen
+6197;2000-10-13;2021-02-02;258;51.8664;9.271;Lügde-Paenbruch;Nordrhein-Westfalen
+6264;2004-06-01;2021-02-02;457;51.414;8.65;Brilon-Thülen;Nordrhein-Westfalen
+6313;2004-12-01;2021-02-02;440;51.2488;7.4672;Breckerfeld-Wengeberg;Nordrhein-Westfalen
+6337;2004-08-01;2021-02-02;59;51.7663;7.5194;Lüdinghausen-Brochtrup;Nordrhein-Westfalen
+7106;2006-09-01;2021-02-02;105;52.0714;8.4565;Bielefeld-Deppendorf;Nordrhein-Westfalen
+7330;2005-10-01;2021-02-02;159;51.4633;7.978;Arnsberg-Neheim;Nordrhein-Westfalen
+7344;2006-06-01;2021-02-02;45;51.2992;6.2013;Nettetal-Hülst;Nordrhein-Westfalen
+7374;2006-03-01;2021-02-02;46;52.0813;6.9409;Ahaus;Nordrhein-Westfalen
+7378;2006-07-01;2021-02-02;101;51.0149;6.5173;Bedburg-Weiler Hohenholz;Nordrhein-Westfalen
+13669;2007-09-01;2021-02-02;55;52.0087;7.8519;Ostbevern-Schirlheide;Nordrhein-Westfalen
+13670;2007-06-01;2021-02-02;24;51.5088;6.7018;Duisburg-Baerl;Nordrhein-Westfalen
+13671;2007-12-01;2021-02-02;221;50.9655;7.2753;Overath-Böke;Nordrhein-Westfalen
+13696;2007-12-01;2021-02-02;60;51.5966;7.4048;Waltrop-Abdinghof;Nordrhein-Westfalen
+13700;2008-05-01;2021-02-02;205;51.3329;7.3411;Gevelsberg-Oberbröking;Nordrhein-Westfalen
+13713;2007-11-01;2021-02-02;386;51.0899;7.6289;Meinerzhagen-Redlendorf;Nordrhein-Westfalen
+15000;2011-04-01;2021-02-02;231;50.7983;6.0244;Aachen-Orsbach;Nordrhein-Westfalen

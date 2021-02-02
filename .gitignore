@@ -20,6 +20,7 @@ data/original/DWD/
 
 *.ipynb_checkpoints/
 *checkpoint.ipynb
+__pycache__
 
 
 # Exceptions allow to disseminate the solutions selectively.

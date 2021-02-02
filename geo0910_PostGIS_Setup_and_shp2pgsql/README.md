@@ -1,0 +1,3 @@
+# PostGIS Setup and Data Upload with shp2pgsql / psql
+
+to be done ...

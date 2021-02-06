@@ -45,9 +45,10 @@ Create a PostGIS geo database and upload a DWD station shapefile to it. Learn to
 ## geo0920: Geopandas and PostgreSQL/PostGIS
 Create a Geopandas dataframe from a DWD station Pandas dataframe by generating geometry data (points) from the (latitude, longitude) point cooridinate in the Pandas dataframe. Store the data in the two different file formats shapefile and geopackage. INsert the data directly in a PostgreSQL/PostGIS database. 
 
-## geo0930: PostgreSQL/PostGIS Time Series and Station Info Joined
+## geo0930: Join time series and station info in PostgreSQL/PostGIS.
 Insert the time series into the PostgreSQL/PostGIS database. Join the time series (without geometry infomation) with the station information (with geometry infomation) and create a view. Import the view into QGIS. Learn to filter the data with conduictions in the import dialog  (SQL conditions). Study that this connection is a live link and not a static snapshot: Data modifications in QGIS or PostGIS are updated immediately on the other side, respectively. 
 
-## geo0940: Use the Station / Time Series Join in QGIS and its TimeManager
-Use the joined view of station information and time series in the time manager. 
+## geo0940: Use the station / time series join with the QGIS TimeManager plugin.
+
+Use the joined view of station information and time series in the time manager. Learn how to limit the data in the select statement in the import QGIS import dialog for PostGIS layers.
 

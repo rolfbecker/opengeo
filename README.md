@@ -5,9 +5,9 @@ Open Source Geo-Spatiotemporal Data Handling with Python, QGIS, PostgreSQL and P
 
 The German Weather Service (Deutscher Wetterdienst, DWD), an official governmental institution, is introduced. Parts of the DWD Climate Data Center observation data archive are explained. 
 
-## geo0810: Create a vector layer (for QGIS) from DWD precipitation station information.
+## geo0810: Create a QGIS vector layer from DWD station information by importing a CSV file.
 
-Read a station information file from the DWD archive into a Pandas data frame, process it and safe it as CSV file which can be imported into QGIS. Use Geopandas to store a geo DataFrame in shapefile as well as geopackage file format.
+Read a station information file (.txt, fixed width formatted) from the DWD archive into a Pandas data frame, process it and safe it as CSV file which can be imported into QGIS. Use Geopandas to store a geo DataFrame in shapefile as well as geopackage file format.
 
 ## geo0820: Plot time series in Pandas.
 

@@ -20,5 +20,12 @@ CREATE DATABASE geo
     CONNECTION LIMIT = -1;
 
 COMMENT ON DATABASE geo
-    IS 'Geospatial database for training';
-	
+    IS 'Geospatial database for training with PostGIS / QGIS';
+
+\c geo
+
+CREATE SCHEMA dwd
+    AUTHORIZATION geo_master;
+
+COMMENT ON SCHEMA dwd
+    IS 'Schema / namespace to store DWD data.';

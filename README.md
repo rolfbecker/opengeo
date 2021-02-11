@@ -1,4 +1,5 @@
-# opengeo
+# opengeo <br> - under construction! Folders will be filled step by step ...
+
 Open Source Geo-Spatiotemporal Data Handling with Python, QGIS, PostgreSQL and PostGIS
 
 ## geo0800: Introduction to the DWD Climate Data Center Data Archive

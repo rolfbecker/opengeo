@@ -62,7 +62,7 @@ jupyter-lab
 
 ## ISSUES: PROJ (used by GEOPANDAS, GDAL, etc.) - Wrong environment variable! (2021-10-25)
 
-Installing `pyproj` with `conda` sometimes does not set the environment variable **`PROJ_LIB`** in the current conda environment. It seems that this happens mainly when using the OSGeo4W installer!
+Installing `pyproj` with `conda` sometimes does not set the environment variable **`PROJ_LIB`** in the current conda environment. This seems to happen mainly when using the **OSGeo4W installer**!
 
 ```
 # Show the full Windows envionment

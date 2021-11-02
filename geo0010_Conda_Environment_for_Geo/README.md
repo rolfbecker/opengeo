@@ -12,7 +12,7 @@ http://nero-docs.stanford.edu/jupyter-customEnv.html
 
 ## Create a New Conda Environment
 
-On Windows: Open an Anaconda Powershell Prompt (Start -> Anaconda3 -> Anaconda Powershell Prompt). On other operating systems open a terminal. On the command line prompt you should see an indicator which Python environment is currently active, e.g. `(base) PS C:\Users\me`
+On Windows: Open an Anaconda Powershell Prompt (Start -> Anaconda3 -> Anaconda Powershell Prompt). On other operating systems open a terminal. On the command line prompt you should see an indicator which Python environment is currently active, e.g. <br> `(base) PS C:\Users\me>`
 
 The token `(base)` shows the active environment.
 

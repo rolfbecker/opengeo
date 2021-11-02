@@ -1,4 +1,4 @@
-# Setting up a Clean Conda Environment and Base Installation of Geo Relevant Packages
+# Setting up a Conda Environment with Relevant Geo Packages
 
 Environments are very useful and highly recommended anyway to have full control of kernel and package versions. Some software development projects require the combination of packages with dedicated version numbers. A virtual environment provides a fully controlled and independent sandbox of installed components.
 

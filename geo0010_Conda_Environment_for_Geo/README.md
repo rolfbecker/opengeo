@@ -54,7 +54,7 @@ jupyter-lab
 ## Create a New Conda Environment, condensed
 
 ```
-conda create --name geo python=3 jupyterlab geopandas
+conda create -c conda-forge -n geo python=3 jupyterlab geopandas
 conda activate geo
 jupyter-lab
 ```

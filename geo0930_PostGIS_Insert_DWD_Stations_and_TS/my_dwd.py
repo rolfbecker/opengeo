@@ -2,6 +2,7 @@ import pandas as pd
 import os
 import ftplib
 
+encoding = "latin1" # German Umlaute
 
 def grabFile(ftp,ftpfullname,localfullname):
     try:
@@ -60,7 +61,7 @@ import codecs
 def station_desc_txt_to_csv(txtfile, csvfile):
     import pandas as pd
     
-    file = codecs.open(txtfile,"r","utf-8")
+    file = codecs.open(txtfile,"r",encoding)
     r = file.readline()
     file.close()
     colnames_de = r.split()
@@ -80,7 +81,7 @@ def station_desc_txt_to_csv(txtfile, csvfile):
     colnames_en = [translate[h] for h in colnames_de]
     
     # Skip the first two rows and set the column names.
-    df = pd.read_fwf(txtfile,skiprows=2,names=colnames_en, parse_dates=["date_from","date_to"],index_col = 0)
+    df = pd.read_fwf(txtfile,skiprows=2,names=colnames_en, parse_dates=["date_from","date_to"],index_col = 0,encoding=encoding)
     
     # write CSV file with field separator semicolon
     df.to_csv(csvfile, sep = ";")
@@ -97,7 +98,7 @@ def prec_ts_to_df(fname):
     
     dateparse = lambda dates: [datetime.strptime(str(d), '%Y%m%d%H') for d in dates]
 
-    df = pd.read_csv(fname, delimiter=";", encoding="utf8", index_col="MESS_DATUM", parse_dates = ["MESS_DATUM"], date_parser = dateparse, na_values = [-999.0, -999])
+    df = pd.read_csv(fname, delimiter=";", encoding=encoding, index_col="MESS_DATUM", parse_dates = ["MESS_DATUM"], date_parser = dateparse, na_values = [-999.0, -999])
 
     #df = pd.read_csv(fname, delimiter=";", encoding="iso8859_2",\
     #             index_col="MESS_DATUM", parse_dates = ["MESS_DATUM"], date_parser = dateparse)
@@ -105,7 +106,7 @@ def prec_ts_to_df(fname):
     # https://medium.com/@chaimgluck1/working-with-pandas-fixing-messy-column-names-42a54a6659cd
 
     # Column headers: remove leading blanks (strip), replace " " with "_", and convert to lower case.
-    df.columns = df.columns.str.strip().str.lower().str.replace(' ', '_').str.replace('(', '').str.replace(')', '')
+    df.columns = df.columns.str.strip().str.lower().str.replace(' ', '_', regex=False).str.replace('(', '', regex=False).str.replace(')', '', regex=False)
     df.index.name = df.index.name.strip().lower().replace(' ', '_').replace('(', '').replace(')', '')
     
     # TIME ZONES: https://stackoverflow.com/questions/22800079/converting-time-zone-pandas-dataframe

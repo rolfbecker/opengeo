@@ -1,10 +1,11 @@
-# R. Becker, 2021-02-02, V001
+# R. Becker, 2022-02-16, V002
 
 # Use .gitignore to not share all data and projects at once.
 # By default ignore all directories containing solutions, scratch files shown in class and development versions
 
 *_soln/
 *_dev/
+*_old/
 *_INCLASS/
 tmp/
 
